@@ -13,3 +13,5 @@ Conexión:
 Ejecución:
 	Primero ejecutar el archivo 'FakeMake.py' este crea dos tablas, 'Tienda' y 'Biblioteca'. También llena la tabla 'Tienda' con los datos del csv e ingresa 10 juegos aleatorios a la tabla 'Biblioteca'.
 	Luego ejecutar el archivo 'Console.py', el cual da inicio al programa, a través de consola.
+	
+Nota: 97. -3 Pts. por el Trigger.
